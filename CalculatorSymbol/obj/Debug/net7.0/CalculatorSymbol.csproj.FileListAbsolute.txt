@@ -1,0 +1,15 @@
+D:\cs\CalculatorSymbol\CalculatorSymbol\bin\Debug\net7.0\CalculatorSymbol.exe
+D:\cs\CalculatorSymbol\CalculatorSymbol\bin\Debug\net7.0\CalculatorSymbol.deps.json
+D:\cs\CalculatorSymbol\CalculatorSymbol\bin\Debug\net7.0\CalculatorSymbol.runtimeconfig.json
+D:\cs\CalculatorSymbol\CalculatorSymbol\bin\Debug\net7.0\CalculatorSymbol.dll
+D:\cs\CalculatorSymbol\CalculatorSymbol\bin\Debug\net7.0\CalculatorSymbol.pdb
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.csproj.AssemblyReference.cache
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.AssemblyInfoInputs.cache
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.AssemblyInfo.cs
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.csproj.CoreCompileInputs.cache
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.dll
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\refint\CalculatorSymbol.dll
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.pdb
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\CalculatorSymbol.genruntimeconfig.cache
+D:\cs\CalculatorSymbol\CalculatorSymbol\obj\Debug\net7.0\ref\CalculatorSymbol.dll
