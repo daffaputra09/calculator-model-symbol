@@ -14,7 +14,7 @@ After input second number, user need tu input operator, Example `+`
 | /        | Division       |
 | :        | Division       |  
   
-  User can type `Enter` to see the result 
+  User can press `Enter` to see the result 
   
   Now, user's console will be like this:
   ```
